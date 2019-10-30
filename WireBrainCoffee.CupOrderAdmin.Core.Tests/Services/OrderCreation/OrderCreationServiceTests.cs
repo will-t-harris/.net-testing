@@ -1,4 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace WireBrainCoffee.CupOrderAdmin.Core.Tests.Services.OrderCreation
 {
@@ -9,7 +10,7 @@ namespace WireBrainCoffee.CupOrderAdmin.Core.Tests.Services.OrderCreation
         [TestMethod]
         public void ShouldStoreCreatedOrderInOrderCreationResult()
         {
-
+            throw new NotImplementedException();
         }
     }
 }
